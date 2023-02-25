@@ -1,0 +1,19 @@
+h1{
+    font-family:  'Times New Roman';
+    color:red;
+}
+img{
+    width:50%;
+    border-radius:none;
+    margin:1px auto;
+    display:block;
+    
+}
+body{
+   background: url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95c3a34f9.png");
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    no-repeat center center fixed;
+    background-size: cover;
+}

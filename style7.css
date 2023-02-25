@@ -1,0 +1,14 @@
+h1{
+    color:gold;
+    font-family: Impact;
+    text-align: center;
+    background-color:cornflowerblue;
+}
+body{
+    background: url("https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    no-repeat center center fixed;
+    background-size: cover;
+}
